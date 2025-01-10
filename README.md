@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @avidhanorkar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me:  You can mail me at avidhanorkar23@gmail.com 
+# Hi there, I'm Avidhanorkar! 👋
 
-<!---
-avidhanorkar/avidhanorkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast who loves to explore new technologies and solve challenging problems. Here's a little more about me:
+
+## 🔭 What I'm currently working on
+- Building scalable web applications using modern frameworks like React, Node.js, and Express.
+- Exploring cloud computing with AWS and Azure.
+- Contributing to open source projects and collaborating with the developer community.
+
+## 🌱 What I'm currently learning
+- Advanced algorithms and data structures to enhance my problem-solving skills.
+- DevOps practices including CI/CD pipelines and containerization with Docker and Kubernetes.
+- Machine learning and AI techniques to integrate intelligent features into my applications.
+
+## 💬 Ask me about
+- Web development (HTML, CSS, JavaScript, React, Node.js)
+- Backend development (Express, MongoDB, SQL)
+- Cloud services (AWS, Azure)
+- Open source contributions
+
+## 📫 How to reach me
+- Email: [avidhanorkar@example.com](mailto:avidhanorkar@example.com)
+- LinkedIn: [linkedin.com/in/avidhanorkar](https://www.linkedin.com/in/avidhanorkar)
+- Twitter: [twitter.com/avidhanorkar](https://twitter.com/avidhanorkar)
+
+## ⚡ Fun facts
+- I love playing chess and often participate in online chess tournaments.
+- I'm an avid reader and enjoy reading books on technology, psychology, and science fiction.
+- In my free time, I enjoy hiking and exploring nature trails.
+
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React, Redux, HTML5, CSS3, SASS
+- **Backend:** Node.js, Express, Django
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **DevOps:** Docker, Kubernetes, Jenkins
+- **Cloud:** AWS, Azure, Google Cloud Platform
+- **Version Control:** Git, GitHub
+
+## 📈 GitHub Stats
+![Avidhanorkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=avidhanorkar&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![Avidhanorkar's GitHub trophies](https://github-profile-trophy.vercel.app/?username=avidhanorkar&theme=radical)
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about technology.
