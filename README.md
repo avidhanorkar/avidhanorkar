@@ -22,19 +22,13 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - Email: [avidhanorkar@example.com](mailto:avidhanorkar@example.com)
 - LinkedIn: [linkedin.com/in/avidhanorkar](https://www.linkedin.com/in/avidhanorkar)
 - Twitter: [twitter.com/avidhanorkar](https://twitter.com/avidhanorkar)
-
-## ⚡ Fun facts
-- I love playing chess and often participate in online chess tournaments.
-- I'm an avid reader and enjoy reading books on technology, psychology, and science fiction.
-- In my free time, I enjoy hiking and exploring nature trails.
-
+- Instagram: [instagram.com/this.avishkar](https://instagram.com/this.avishkar)
+  
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** React, Redux, HTML5, CSS3, SASS
-- **Backend:** Node.js, Express, Django
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **DevOps:** Docker, Kubernetes, Jenkins
-- **Cloud:** AWS, Azure, Google Cloud Platform
+- **Languages:** JavaScript, Java
+- **Frontend:** React, HTML5, CSS3, SASS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MySQL
 - **Version Control:** Git, GitHub
 
 ## 📈 GitHub Stats
