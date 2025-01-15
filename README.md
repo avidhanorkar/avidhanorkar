@@ -1,4 +1,4 @@
-# Hi there, I'm Avidhanorkar! 👋
+# Hi there, I'm Avishkar Dhanorkar! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast who loves to explore new technologies and solve challenging problems. Here's a little more about me:
 
