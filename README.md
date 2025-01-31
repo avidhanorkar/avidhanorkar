@@ -25,11 +25,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - Instagram: [instagram.com/this.avishkar](https://instagram.com/this.avishkar)
   
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Java
-- **Frontend:** React, HTML5, CSS3, SASS
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Version Control:** Git, GitHub
+- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+- **Frontend:** ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3) ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)
+- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+- **Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+- **Version Control:** ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ## 📈 GitHub Stats
 ![Avidhanorkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=avidhanorkar&show_icons=true&theme=radical)
