@@ -1,6 +1,7 @@
 # Hi there, I'm Avishkar Dhanorkar! 👋
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=avidhanorkar.avidhanorkar)
+![Profile Views](https://komarev.com/ghpvc/?username=avidhanorkar&color=blueviolet)
+
 
 Welcome to my GitHub profile! I'm a passionate software developer and technology enthusiast who loves to explore new technologies and solve challenging problems. Here's a little more about me:
 
@@ -35,9 +36,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 
 ## 📈 GitHub Stats
 ![Avidhanorkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=avidhanorkar&show_icons=true&theme=radical)
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=avidhanorkar&theme=radical])
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avidhanorkar&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=avidhanorkar&color=blueviolet)
+
 
 
 ## 🏆 GitHub Trophies
