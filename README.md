@@ -35,9 +35,10 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 
 ## 📈 GitHub Stats
 ![Avidhanorkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=avidhanorkar&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avidhanorkar&theme=radical)
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=avidhanorkar&theme=radical])
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avidhanorkar&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=avidhanorkar&color=blueviolet)
+
 
 ## 🏆 GitHub Trophies
 ![Avidhanorkar's GitHub trophies](https://github-profile-trophy.vercel.app/?username=avidhanorkar&theme=radical)
